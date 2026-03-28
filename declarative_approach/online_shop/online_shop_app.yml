@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: online-shop-app
-  namespace: argocd
+  namespace: stackforge
 spec:
   project: default
   source:
