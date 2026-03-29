@@ -10,7 +10,7 @@ spec:
     targetRevision: main
     path: declarative_approach/online_shop
   destination:
-    server: app_of_apps/apps/online_shop_app.yml   # Replace with your Cluster Url, To get run: `argocd cluster list`
+    server: https://kubernetes.default.svc   # Replace with your Cluster Url, To get run: `argocd cluster list`
     namespace: stackforge
   syncPolicy:
     automated:
