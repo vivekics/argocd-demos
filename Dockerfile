@@ -1,12 +1,2 @@
-this is my first coding as a dev.
-
-
-
-
-
-
-
-
-hello
-namaste
-salam
+this is new line
+and new code
